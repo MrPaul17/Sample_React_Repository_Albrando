@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_Albrando/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_Albrando/static/js/main.93cb40ff.js",
+    "static/js/787.eed000a1.chunk.js": "/Sample_React_Repository_Albrando/static/js/787.eed000a1.chunk.js",
+    "static/media/3.jpg": "/Sample_React_Repository_Albrando/static/media/3.4fb992ec0d93316cfa5e.jpg",
+    "static/media/1.jpg": "/Sample_React_Repository_Albrando/static/media/1.f3d92b4df35e31dfddeb.jpg",
+    "static/media/4.jpg": "/Sample_React_Repository_Albrando/static/media/4.34d943afa507b18b36fc.jpg",
+    "static/media/2.jpg": "/Sample_React_Repository_Albrando/static/media/2.8a308cd75ea6743c3139.jpg",
+    "static/media/5.jpg": "/Sample_React_Repository_Albrando/static/media/5.3ceb5576fd66b9664af6.jpg",
+    "index.html": "/Sample_React_Repository_Albrando/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_Albrando/static/css/main.88404e20.css.map",
+    "main.93cb40ff.js.map": "/Sample_React_Repository_Albrando/static/js/main.93cb40ff.js.map",
+    "787.eed000a1.chunk.js.map": "/Sample_React_Repository_Albrando/static/js/787.eed000a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.93cb40ff.js"
+  ]
+}
